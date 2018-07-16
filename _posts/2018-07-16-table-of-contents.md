@@ -3,8 +3,8 @@ toc: true
 toc_label: "Title"
 toc_icon: "child"
 toc_sticky: true
-image:
-  thumb: my-image.png
+
+teaser: my-image.png
 ---
 
 An automatic table of contents
