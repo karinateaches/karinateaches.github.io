@@ -2,6 +2,7 @@
 toc: true
 toc_label: "Title"
 toc_icon: "child"
+toc_sticky: true
 ---
 
 An automatic table of contents
