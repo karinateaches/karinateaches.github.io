@@ -1,6 +1,6 @@
 ---
 toc: true
-toc_label "Title"
+toc_label: "Title"
 toc_icon: "child"
 ---
 
