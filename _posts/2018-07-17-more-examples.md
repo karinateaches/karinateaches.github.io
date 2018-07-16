@@ -37,3 +37,28 @@ Here's the text of your notice!
 Here's the text of your notice!
 {: .notice--danger} 
 
+## Miscellaneous mark up
+### Abbreviation
+
+HTML stands for "Hyper-text markup language".
+
+*[HTML]: Hyper-text markup language
+
+
+`*[HTML]: Hyper-text markup language`
+
+### Cite
+"I read books" ---<cite>Bookman</cite>
+
+`"I read books" ---<cite>Bookman</cite>`
+
+### Sub/Superscript
+H<sub>2</sub>O
+
+x<sup>2</sup>
+
+
+`
+H<sub>2</sub>O
+x<sup>2</sup>
+`
