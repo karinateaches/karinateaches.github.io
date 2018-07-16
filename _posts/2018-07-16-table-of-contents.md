@@ -4,7 +4,7 @@ toc_label: "Title"
 toc_icon: "child"
 toc_sticky: true
 image:
-  thumb: my-image.png
+  thumb: my-img.png
 ---
 
 An automatic table of contents
@@ -19,4 +19,4 @@ An automatic table of contents
 
 ## [toc_icons](https://fontawesome.com/icons?d=gallery&s=solid&m=free)
 
-![relative](../assets/images/my-image.png)
+![relative](../assets/images/my-img.png)
