@@ -3,8 +3,7 @@ toc: true
 toc_label: "Title"
 toc_icon: "child"
 toc_sticky: true
-image:
-  thumb: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png"
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png"
 ---
 
 An automatic table of contents
