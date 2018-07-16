@@ -1,9 +1,4 @@
----
-layout: single
-permalink: /about/
-author_profile: true
----
 
-# About me
+### The title is automatically added
 
 ## Information
