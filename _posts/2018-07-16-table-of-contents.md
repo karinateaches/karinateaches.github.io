@@ -3,7 +3,7 @@ toc: true
 toc_label: "Title"
 toc_icon: "child"
 toc_sticky: true
-teaser: /assets/images/my-image.png
+teaser: /assets/images/my-img.png
 ---
 
 An automatic table of contents
