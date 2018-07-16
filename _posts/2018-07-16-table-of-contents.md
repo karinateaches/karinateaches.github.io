@@ -3,9 +3,8 @@ toc: true
 toc_label: "Title"
 toc_icon: "child"
 toc_sticky: true
-image: "https://avatars2.githubusercontent.com/u/10603766?s=460&v=4"
-header:
-  teaser: "https://avatars2.githubusercontent.com/u/10603766?s=460&v=4"
+image:
+  thumb: "https://avatars2.githubusercontent.com/u/10603766?s=460&v=4"
 ---
 
 An automatic table of contents
