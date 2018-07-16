@@ -27,4 +27,9 @@ main:
   - title: "Example-Page"
     url: /example-page/
 ```
+## Theme
+You can change the theme by editing `_/config.yml`. The first configuration
 
+`minimal_mistakes_skin  :"dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"`
+
+Simply replace `"dark"` with any of the follow commented out theme names.
