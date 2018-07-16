@@ -18,3 +18,5 @@ An automatic table of contents
 #### Header 4
 
 ## [toc_icons](https://fontawesome.com/icons?d=gallery&s=solid&m=free)
+
+![relative](../assets/images/my-image.png)
