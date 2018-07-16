@@ -1,5 +1,4 @@
 ---
-title: "Layout with Table of Contents"
 toc: true
 toc_label "Title"
 toc_icon: "child"
