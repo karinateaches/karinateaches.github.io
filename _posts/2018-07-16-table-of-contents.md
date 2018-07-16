@@ -4,7 +4,7 @@ toc_label: "Title"
 toc_icon: "child"
 toc_sticky: true
 image:
-  thumb: "https://avatars2.githubusercontent.com/u/10603766?s=460&v=4"
+  thumb: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png"
 ---
 
 An automatic table of contents
