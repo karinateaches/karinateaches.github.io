@@ -260,18 +260,12 @@ compress_html:
 defaults:
   # _pages
   - scope:
-      path: _pages
+      path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  # _pages/about.md
-  - scope:
-      path: _pages/about.md
-      permalink: /about/
-    values: 
-      layout: single
-  # _posts
+ # _posts
   - scope:
       path: ""
       type: posts
