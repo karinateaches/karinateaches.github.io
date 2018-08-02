@@ -35,3 +35,4 @@ minimal_mistakes_skin  :"dark" # "air", "aqua", "contrast", "dark", "dirt", "neo
 ```
 
 Simply replace `"dark"` with any of the follow commented out theme names.
+
