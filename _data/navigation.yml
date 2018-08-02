@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Resume"
     url: /resume/
+  - title: "Test"
+    url: /test/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
