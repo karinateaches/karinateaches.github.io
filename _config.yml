@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            : "email@email.com"
+  name             : "Karina Barragan"
+  avatar           : "/assets/images/my-img.png"
+  bio              : "Graduate Student studying Childhood Education."
+  location         : "New York"
+  email            : "karina.barragan4@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -114,7 +114,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/karinateaches"
   gitlab           :
   google_plus      :
   keybase          :
